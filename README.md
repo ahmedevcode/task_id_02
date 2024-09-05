@@ -1,16 +1,17 @@
 # task_id_02
 
-A new Flutter project.
+an app take from user data and display this  info ℹ .
 
-## Getting Started
+## 🎨features
++ flutter 
++ dart 🎯
++ ui/ux 
++ mvvm pattern ♠️
++ clean code 
++ cubit as ST
 
-This project is a starting point for a Flutter application.
+# vedio  record ⏺ :
 
-A few resources to get you started if this is your first Flutter project:
+[task_id_02.webm](https://github.com/user-attachments/assets/3e81fa6f-ad69-4a91-ace5-4f608a3b765a)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
